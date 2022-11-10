@@ -48,22 +48,21 @@ The final analysis was done to determine the target amount (goal) that will resu
 ![Outcomes based on goal](https://user-images.githubusercontent.com/116985403/201023682-4fa75bed-7c6c-4b69-b5c7-3476de0c22e0.png)
 
 
-Based on the analysis the top 7 goal targets based on hosting successful events are
+Based on the analysis the top 6 goal targets based on hosting successful events are
 
 1. Less than $1000 with the success rate of 76% with a total of 141 sucessful events
 2. $1000-$4999 with a success rate of 73% with a total of 388 sucessful events.
 3. $35,000-$39,999 with a success rate of 67% with a total of 4 successful events.
 4. $40,000-$44,999 with a success rate of 67% with a total of 2 successful events.
-5. $15,000-$20,000 with a success rate of 50% with a total of 12 successful events.
-6. $5000-$9,999 with a success rate of 55% with a total of 93 sucessful events.
-7. $10,000-$14,999 with a success rate of 54% with a total of 39 sucessful events.
-
+5. $5000-$9,999 with a success rate of 55% with a total of 93 sucessful events.
+6. $10,000-$14,999 with a success rate of 54% with a total of 39 sucessful events.
+ 
 
 Based on the analysis it is evident that the success of a fundraiser is inverserly correlated to the funding amount. Based on Louise's goal of $10,000, she could either decide to host two fundraisers for the goal of $5000 or she could host one fundraiser with the target amount of $10,000. Though hosting two fundraisers may seem tedious, based on the analysis, it is evident that more successful fund raisers (388 events) belong to $1000-$4999 target amount.
  
 ### Recommendation for Louise to host her fundraiser
 
-The analysis was done help Louise's raise $10,000 for her play "Fever"
+The analysis was done to help Louise raise $10,000 for her play "Fever"
 
 The analysis proposes the following recommendation for Louise's play fundraiser
 
@@ -76,12 +75,12 @@ The analysis proposes the following recommendation for Louise's play fundraiser
 
 
 
-# Results
-## Conclusions based on Theater Outcomes by Launch date
+## Results
+### Conclusions based on Theater Outcomes by Launch date
 1. People enjoy Theater fundraising events mostly in the Summer (May-July)
 2. Rate of failure seems to be fairly constant with most months close to the average failure rate of 37%
-## Conclusion based on Outcomes based on Goals
+### Conclusion based on Outcomes based on Goals
 The success rate is inversely correlated to the fundraising goal.
-## Limitations of the dataset
-For the most part the data was informative to decide on the destination, time and funding amount,however a useful addition will be to incorporate the total cost of hosting the fundraising. With the cost of fundraiser in place, it will help narrow down the locations especially when considering an overseas location. Human resources, venue and technological requirements may be additional factors that can be considered and plotting Cost/benefit ratio can be very useful.
+### Limitations of the dataset
+For the most part the data was informative to decide on the destination, time and funding amount,however a useful addition will be to incorporate the total cost of hosting the fundraising. With the cost of fundraiser in place, it will help to narrow down the locations especially when considering an overseas location. Human resources, venue and technological requirements may be additional factors that can be considered and plotting Cost/benefit ratio can be very useful.
 
