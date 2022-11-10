@@ -1,8 +1,7 @@
 # Project Overview
 The goal of this project is to help Loiuse raise a target goal/fund of $10,000 for her play "Fever". Based on the crowdfunding data, the success rate based on location, timing and target fund amount were determined. This analysis looks into the top three destinations where she can host her fundraiser. The possible time of the year that she could plan her fundraiser and finally the likehood of getting her play funded given her target funding amount and if necessary adjust her funding goals.
-The most successful fundraisers 
-**
-Analysis and Challenges**
+
+
 
 ## Analysis
 ### Top 3 destinations for hosting fundraiser for plays
